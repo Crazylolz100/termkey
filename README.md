@@ -1,3 +1,4 @@
 # termkey
-• For Termux Special Keys
-● How to Install ●
+- For Termux Special Keys
+~ How to Install ~
+$
